@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Peregrinations | Home</title>
+  
+  <!--bootstrap-->
+  <link href="css/bootstrap.css" rel="stylesheet">
+
+<!--HTML5 "shim" what is a "shim"?-->
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  
+  <!--js what is js?-->
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  </head>
+ 
+ <body>
+ <img src="images.LakeGlendale.jpg" id="bg" alt=""> 
+ <font-family="Avenir">
+ <div class="container">
+ 			 <h3>Navigation</h3>
+ 				 <ul class="nav nav-pills nav-stacked">
+  				  <li class="active"><a href="#">Home</a></li>
+    			  <li><a href="#">PNW</a></li>
+    			  <li><a href="#">SoCal</a></li>
+    			  <li><a href="#">NE</a></li>
+    			  <li><a href="#">Abroad</a></li>
+    			  <li><a href="#">Night Rides</a></li>
+ 				 </ul>
+  </div>
+  <div class="container-fluid">
+  	<div class="row">
+  		<div class="col-xs-3 col-md-2"></div>
+  		<div class="col-xs-15 col-md-10"></div>
+	</div>
+  </div>
+  
